@@ -1,0 +1,74 @@
+{
+    "default": [
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "body-flesh",
+            "account_bound": false,
+            "active_palette": 1
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "eye-n_basic2018femaleround",
+            "account_bound": false,
+            "active_palette": 7
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "eyebrow-n_basic2018newbrows16",
+            "account_bound": false,
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "nose-n_01",
+            "account_bound": false,
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "mouth-n_basic2018toothyfullpeaked",
+            "account_bound": false,
+            "active_palette": 1
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hair_front-n_basic2020overshoulderwavyshort",
+            "account_bound": false,
+            "active_palette": -1
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hair_back-n_basic2020overshoulderwavy",
+            "account_bound": false,
+            "active_palette": -1
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "shirt-n_starteritems2019femtshirtwhite",
+            "account_bound": false,
+            "active_palette": -1
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "pants-n_room32019highwasittrackshortsblack",
+            "account_bound": false,
+            "active_palette": -1
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "shoes-n_converse_black",
+            "account_bound": false,
+            "active_palette": -1
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "permissions": [
+        {
+            "user_id": "638e2c371aa0c0b9b52ca6df",
+            "username": "PhaNtOMExe_",
+            "permissions": [
+                "come",
+                "help",
+                "equip",
+                "kick",
+                "userinfo",
+                "admin"
+            ]
+        },
+        {
+            "user_id": "آیدی_کاربر_جدید",
+            "username": "arArshida",
+            "permissions": [
+                "come",
+                "equip",
+                "kick",
+                "help"
+            ]
+        }
+    ]
+}

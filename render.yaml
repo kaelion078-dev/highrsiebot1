@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: highrise-bot-web
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn keep_alive:app
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: ROOM_ID
+        sync: false
+
+  - type: worker
+    name: highrise-bot-worker
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python run.py
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: ROOM_ID
+        sync: false
