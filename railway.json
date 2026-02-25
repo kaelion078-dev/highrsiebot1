@@ -1,0 +1,6 @@
+{
+  "build": {
+    "builder": "NIXPACKS",
+    "pythonVersion": "3.11.0"
+  }
+}
